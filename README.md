@@ -3,3 +3,4 @@ A beautiful Flutter weather application that displays real-time weather conditio
 ## 📸 Screenshots
 
 ![weather-app - Damascus weather](photo1.jpg)
+![weather-app - Canadain weather](photo2.jpg)
